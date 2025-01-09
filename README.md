@@ -108,4 +108,4 @@ pnpm dev
 
 ![Paste public and secret key](https://i.imgur.com/Ja1Iwuo.png)
 
-### 2.16 - stripe (use this guide to paste your webhook https://youtu.be/2aeMRB8LL4o?t=20951)
+
